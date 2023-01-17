@@ -17,6 +17,7 @@ Create a templates folder under the app folder followed by a folder under templa
 Write HTML and CSS code in the file save it and run the app using python manage.py makemigrations and python manage.py migrate commands .Run the Server using "python3 manage.py runserver 0:80" command.
 
 ## Code:
+```
 
 <!DOCTYPE html>
 <html lang="en">
@@ -141,7 +142,7 @@ Edition&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
     
 </html>                           
                       
-
+```
 ## Output:
 ![OUTPUT](./images/book.png)
 
