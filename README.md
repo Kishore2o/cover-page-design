@@ -144,7 +144,7 @@ Edition&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
                       
 ```
 ## Output:
-![OUTPUT](./images/book.png)
+![OUTPUT](./images/book1.png)
 
 ## Result:
 Thus successfully designed a web page to display a book cover page design.
